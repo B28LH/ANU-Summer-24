@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: tabbycat\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-05 07:37+1000\n"
-"PO-Revision-Date: 2023-07-04 21:51\n"
+"PO-Revision-Date: 2023-08-11 14:43\n"
 "Last-Translator: \n"
 "Language-Team: Vietnamese\n"
 "Language: vi_VN\n"
@@ -243,23 +243,23 @@ msgstr[0] ""
 #: motions/templates/motion_statistics_bp_prelim.html
 #, python-format
 msgid "%(side)s results"
-msgstr ""
+msgstr "%(side)s kết quả"
 
 #: motions/templates/motion_statistics_twoteam.html
 #, python-format
 msgid "%(count)s %(side)s win"
 msgid_plural "%(count)s %(side)s wins"
-msgstr[0] ""
+msgstr[0] "%(count)s %(side)s chiến thắng"
 
 #: motions/templates/motion_statistics_twoteam.html
 msgid "No teams debated this motion"
-msgstr ""
+msgstr "Không có đội nào tranh biện kiến nghị này"
 
 #: motions/templates/motion_statistics_twoteam.html
 #, python-format
 msgid "%(count)s %(side)s veto"
 msgid_plural "%(count)s %(side)s vetoes"
-msgstr[0] ""
+msgstr[0] "%(count)s %(side)s phản đối"
 
 #: motions/templates/motion_statistics_twoteam.html
 msgid "No teams vetoed this motion"
@@ -284,7 +284,7 @@ msgstr ""
 
 #: motions/templates/motions_edit.html
 msgid "Use Existing Motions"
-msgstr ""
+msgstr "Sử dụng kiến nghị hiện tại"
 
 #: motions/templates/motions_edit.html
 msgid "The motion for this round is currently publicly displayed because it was released. Any changes made here will be publicly visible as well as soon as they are saved."
@@ -294,15 +294,15 @@ msgstr[0] ""
 #: motions/templates/motions_edit.html
 msgid "Save Motion"
 msgid_plural "Save Motions"
-msgstr[0] ""
+msgstr[0] "Lưu kiến nghị"
 
 #: motions/templates/motions_info.html
 msgid "Info Slide"
-msgstr ""
+msgstr "Trang Thông tin"
 
 #: motions/templates/public_motions.html
 msgid "There are no motions available for this round."
-msgstr ""
+msgstr "Không có kiến nghị nào có sẵn cho vòng này."
 
 #: motions/templates/public_motions.html
 msgid "The motions for this round have not been released."
@@ -380,7 +380,7 @@ msgstr[0] ""
 
 #: motions/views.py
 msgid "Round Motions"
-msgstr ""
+msgstr "Kiến nghị của Vòng"
 
 #: motions/views.py
 msgid "Motion Statistics"
